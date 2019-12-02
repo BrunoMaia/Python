@@ -1,2 +1,2 @@
-# UTFPR
-Arquivos feitos para a/na UTFPR
+# Git com aprenziados em python
+Códigos diversos

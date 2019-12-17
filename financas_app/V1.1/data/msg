@@ -1,0 +1,14 @@
+Programa criado por: Bruno 'NOTT' Matheus
+Versão: 1.1 estável
+Data da versão: 17/12/2019
+
+[Notas da vesão]
+- corrigido o erro de exibição do valor restante
+- corrigido o erro do tamanho das barras de valor
++ o visual é agora adptativo
++ pagina "Sobre" criada,
++ o programa é agora um executável só
+
+[Erros conhecidos]
+- ao clicar no botão atualizar, sem criar dados, o programa fecha
+- é possível lançar parcelas com valores errados no faltante e no total
